@@ -1,0 +1,4 @@
+git+https://github.com/Pycord-Development/pycord@905b7d3
+python-decouple
+deso >= 2.0.1
+flask
